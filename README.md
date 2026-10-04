@@ -10,3 +10,5 @@ R script: [Assignment3.R](Assignment3.R)
 Blog post: [View Assignment 3 blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/09/13/analyzing-2016-data-poll-data-in-r/)
 ## Assignment #4: Matrices in R
 [Read my blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/09/24/assignment-5-matrix-algebra-in-r/)
+## Assignment #6: Matrix Operations in R
+[View my blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/04/assignment-6-matrix-operations-and-construction/)
