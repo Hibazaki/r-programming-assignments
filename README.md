@@ -12,3 +12,5 @@ Blog post: [View Assignment 3 blog post](https://hibazakia3b9a4a0b6-trexo.wordpr
 [Read my blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/09/24/assignment-5-matrix-algebra-in-r/)
 ## Assignment #6: Matrix Operations in R
 [View my blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/04/assignment-6-matrix-operations-and-construction/)
+## Assignment 7: Generic Functions, S3, and S4
+Blog post: [Assignment 7 blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/12/assignment-7-exploring-rs-object-oriented-systems-s3-s4/)
