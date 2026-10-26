@@ -16,3 +16,5 @@ Blog post: [View Assignment 3 blog post](https://hibazakia3b9a4a0b6-trexo.wordpr
 Blog post: [Assignment 7 blog post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/12/assignment-7-exploring-rs-object-oriented-systems-s3-s4/)
 ## Assignment 8
 [Assignment 8 Blog Post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/19/assignment-8-input-output-string-manipulation-and-the-plyr-package/)
+## Assignment 9
+[Assignment 9 Blog Post](https://hibazakia3b9a4a0b6-trexo.wordpress.com/2026/10/26/assignment-9-visualization-in-r-base-graphics-lattice-and-ggplot2/)
